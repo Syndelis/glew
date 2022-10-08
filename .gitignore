@@ -17,6 +17,7 @@
 /build/cmake/cmake_uninstall.cmake
 /build/cmake_uninstall.cmake
 /build/cmake/Makefile
+/build/cmake/lib/
 /auto/extensions
 /auto/registry
 /bin
